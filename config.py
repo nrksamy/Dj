@@ -1,15 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7395694874:AAFQYBswoiYETmYGqzauORSHKRVWyhvp8DU"
-OWNER_ID = "265131138"
-TELEGRAM_API = "4353856"
-TELEGRAM_HASH = "21baea4745fd7cc26a4d38a7452f3b42"
+BOT_TOKEN = "7763192990:AAELi2fSwux3aIN0ajjmH5hi_-eWn71d8MU"
+OWNER_ID = "1815536722"
+TELEGRAM_API = "21897798"
+TELEGRAM_HASH = "6dc4b956d136953968a5b088b897c789"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://techbot420:Karthi123@cluster0.xhcnq8n.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URL = "mongodb+srv://ukgames:karthi123@cluster0.6qmaf.mongodb.net/?retryWrites=true&w=majority&appName=djleechbot"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -48,45 +48,23 @@ RCLONE_SERVE_PASS = ""
 # JDownloader
 JD_EMAIL = ""
 JD_PASS = ""
-# Sabnzbd
-USENET_SERVERS = [
-    {
-        "name": "main",
-        "host": "",
-        "port": 563,
-        "timeout": 60,
-        "username": "",
-        "password": "",
-        "connections": 8,
-        "ssl": 1,
-        "ssl_verify": 2,
-        "ssl_ciphers": "",
-        "enable": 1,
-        "required": 0,
-        "optional": 0,
-        "retention": 0,
-        "send_group": 0,
-        "priority": 0,
-    }
-]
+
 # Update
 UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_BRANCH = ""
 UPDATE_PKGS = False
 # Leech
 LEECH_SPLIT_SIZE = 0
 AS_DOCUMENT = False
 EQUAL_SPLITS = False
 MEDIA_GROUP = False
-USER_TRANSMISSION = False
-HYBRID_LEECH = False
 LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_DUMP_CHAT = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
+BASE_URL = "https://djleechbot-5c852a39215b.herokuapp.com"
 BASE_URL_PORT = 0
 WEB_PINCODE = False
 # Queueing system
