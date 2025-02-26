@@ -3,9 +3,9 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = 'Channel'
-    ST_BN1_URL = 'https://t.me/MrSagarBots'
+    ST_BN1_URL = 'https://t.me/starzleech'
     ST_BN2_NAME = 'Use Me'
-    ST_BN2_URL = 'https://t.me/+2X6tur3b8UBmNzI1'
+    ST_BN2_URL = 'https://t.me/djleechbot'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''🕵 <i>Now, This bot will send all your files and links here. Start Using ...</i>'''
@@ -262,7 +262,7 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg 😁
 
-<b><a href="https://t.me/MrSagarBots">❤️ Powered By MrSagarBots ❤️</a></b>'''
+<b><a href="https://t.me/starzleech">❤️ Powered By STAR LEECH ❤️</a></b>'''
 
     UNIVERSAL = '''㊂ ✔️<b><u>Universal Settings : {NAME}</u></b>
 ┎📺 <b> YT-DLP Options :</b> <b><code>{YT}</code></b>
@@ -273,7 +273,7 @@ class WZMLStyle:
 ┠📩 <b> Save Mode :</b> <code>{SAVE_MODE}</code>
 ┖🕵️ <b> User Bot PM :</b> <code>{BOT_PM}</code>
 
-<b><a href="https://t.me/MrSagarBots">❤️ Powered By MrSagarBots ❤️</a></b>'''
+<b><a href="https://t.me/STARZLEECH">❤️ Powered By STAR LEECH ❤️</a></b>'''
 
     MIRROR = '''㊂ ✔️<b><u>Mirror/Clone Settings : {NAME}</u></b>
 ┎🎀 <b> RClone Config :</b> <i>{RCLONE}</i>
@@ -285,7 +285,7 @@ class WZMLStyle:
 ┠📝 <b> Total User TD(s) :</b> <i>{USERTD}</i>
 ┖☁️ <b> Daily Mirror :</b> <code>{DM}</code> per day
 
-<b><a href="https://t.me/MrSagarBots">❤️ Powered By MrSagarBots ❤️</a></b>'''
+<b><a href="https://t.me/STARZLEECH">❤️ Powered By STAR LEECH ❤️</a></b>'''
     LEECH = '''㊂ ✔️<b><u>Leech Settings for {NAME}</u></b>
 ┎📂 <b> Daily Leech : </b><code>{DL}</code> per day
 ┠⚙️ <b> Leech Type :</b> <i>{LTYPE}</i>
@@ -302,4 +302,4 @@ class WZMLStyle:
 ┠📀 <b> Leech Watermark :</b> <code>{WATERMARK}</code>
 ┖🌈 <b> Leech Remname :</b> <code>{LREMNAME}</code>
 
-<b><a href="https://t.me/MrSagarBots">❤️ Powered By MrSagarBots ❤️</a></b>'''
+<b><a href="https://t.me/STARLEECH">❤️ Powered By STAR LEECH ❤️</a></b>'''
