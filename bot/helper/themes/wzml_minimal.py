@@ -226,7 +226,7 @@ class WZMLStyle:
     # ---------------------
 
     # async def countNode(_, message): ----> gd_count.py
-  COUNT_MSG = '<b>🎲Cᴏᴜɴᴛɪɴɢ:</b><code>{LINK}</code>\n\n<b>⏳ Please Wait...</b>'
+  COUNT_MSG = '<b>Cᴏᴜɴᴛɪɴɢ:</b><code>{LINK}</code>\n\n<b> Please Wait...</b>'
     COUNT_NAME = '┏<b>🏷️ Name: </b> <code>{COUNT_NAME}</code>\n'
     COUNT_SIZE = '┠ <b>💾 Sɪᴢᴇ: </b>{COUNT_SIZE}\n'
     COUNT_TYPE = '┠ <b>📜 Tʏᴘᴇ: </b>{COUNT_TYPE}\n'
